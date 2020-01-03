@@ -1,0 +1,2 @@
+include ':app', ':HW11'
+rootProject.name='My Application'
